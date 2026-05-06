@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/tareeq-el-haza2/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Tareeq El Haza2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
